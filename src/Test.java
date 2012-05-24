@@ -1,4 +1,3 @@
-
 public class Test {
 
 	/**
@@ -8,6 +7,7 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		System.out.println("Da ist das DING!");
+		// TODO: new
 	}
 
 }
